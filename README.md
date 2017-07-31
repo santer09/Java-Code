@@ -1,2 +1,11 @@
 # Java-Code
 a simple game in Java
+//  Author: Erick Santos
+//  Due Date: 12/15/10
+//  Assignment #: A6 (Assignment 6) Final - GAME
+//  Class : CS 3 - Java
+//  Instructure : Prof. Greg Scott
+//  THIS IS THE SNAKE GAME. BUT IN RUN IN AN APPLET THEREFORE YOU CANNOT RUN IT
+//  DIRECTLY FROM THE RUN BUTTON OR BY PRESSING F6. YOU HAVE TO RUN IT BY PRESSING
+//  THE LEFT KEY ON THE MOUSE AND CHOOSE THE RUN FILE OPTION OR BY PRESSING
+//  SHIFT + F6 USING NETBEANS. HAVE FUN
